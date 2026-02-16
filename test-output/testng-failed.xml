@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="logout.LogoutTest">
+        <methods>
+          <include name="initPages"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="testLogout"/>
+        </methods>
+      </class> <!-- logout.LogoutTest -->
+      <class name="products.ViewCartProductTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="testViewCartProduct"/>
+          <include name="initPages"/>
+        </methods>
+      </class> <!-- products.ViewCartProductTest -->
+      <class name="carts.ProceedToCheckoutTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initPages"/>
+          <include name="testProceedToCheckout"/>
+        </methods>
+      </class> <!-- carts.ProceedToCheckoutTest -->
+      <class name="delete.DeleteAccountTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="testDeleteCartItem"/>
+          <include name="initPages"/>
+        </methods>
+      </class> <!-- delete.DeleteAccountTest -->
+      <class name="videos.ViewVideoTutorialTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="testViewVideoTutorials"/>
+          <include name="initPages"/>
+        </methods>
+      </class> <!-- videos.ViewVideoTutorialTest -->
+      <class name="testcases.ViewApiTestCasesTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="testViewApiTestCases"/>
+          <include name="initPages"/>
+        </methods>
+      </class> <!-- testcases.ViewApiTestCasesTest -->
+      <class name="testcases.ViewTestCasesTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initPages"/>
+          <include name="testViewTestCases"/>
+        </methods>
+      </class> <!-- testcases.ViewTestCasesTest -->
+      <class name="carts.DeleteCartItemTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="testDeleteCartItem"/>
+          <include name="initPages"/>
+        </methods>
+      </class> <!-- carts.DeleteCartItemTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

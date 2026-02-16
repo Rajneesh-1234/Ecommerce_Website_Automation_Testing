@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listeners.TestListener" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="homepage.HomePageTest" />
+			<class name="auth.LoginTest" />
+			<class name="contact.ContactUsTest" />
+			<class name="contact.ContactUsFormTest" />
+			<class name="products.ViewProductTest" />
+			<class name="products.SearchProductTest" />
+			<class name="products.ViewProductDetailTest" />
+			<class name="products.AddToCartProductTest" />
+			<class name="products.ViewCartProductTest" />
+			<class name="carts.DeleteCartItemTest" />
+			<class name="carts.ProceedToCheckoutTest" />
+			<class name="testcases.ViewTestCasesTest" />
+			<class name="testcases.ViewApiTestCasesTest" />
+			<class name="videos.ViewVideoTutorialTest" />
+			<class name="delete.DeleteAccountTest" />
+			<class name="logout.LogoutTest" />
+		</classes>
+	</test> 
+</suite> 

@@ -1,0 +1,29 @@
+package base;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import utils.WaitUtils;
+
+public class DriverFactory {
+	private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
+	
+	public static void initDriver() {
+		WebDriver webDriver = new ChromeDriver();
+		webDriver.manage().window().maximize();
+		driver.set(webDriver);
+		WaitUtils.getWait(webDriver);
+	}
+
+	public static WebDriver getDriver() {
+		return driver.get();
+	}
+
+	public static void quitDriver() {
+		if (driver.get() != null) {
+//			WaitUtils.getWait(DriverFactory.getDriver());	
+			
+//			driver.get().quit();
+		}
+	}
+}

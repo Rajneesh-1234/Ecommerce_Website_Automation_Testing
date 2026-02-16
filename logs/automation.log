@@ -1,0 +1,486 @@
+2026-02-12 12:03:31 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-12 12:03:45 INFO  HomePageTest:19 - Logo Test Started
+2026-02-12 12:03:45 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-12 12:03:47 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 02:47:17 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 02:48:49 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 07:48:23 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 07:48:44 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 07:48:59 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 07:48:59 INFO  RegisterTest:19 - Register Test Started
+2026-02-13 07:49:07 INFO  LoginTest:19 - Login Test Started
+2026-02-13 07:49:26 INFO  LoginTest:23 - Login Successful!
+2026-02-13 07:49:28 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 07:50:06 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 07:50:15 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 07:50:25 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 07:50:25 INFO  LoginTest:19 - Login Test Started
+2026-02-13 07:50:29 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 07:50:50 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 07:51:07 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 07:51:07 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 07:51:07 INFO  LoginTest:19 - Login Test Started
+2026-02-13 07:51:10 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 07:53:18 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 07:53:33 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 07:53:33 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 07:53:33 INFO  LoginTest:19 - Login Test Started
+2026-02-13 07:53:47 INFO  LoginTest:23 - Login Successful!
+2026-02-13 07:53:51 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 08:30:36 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 08:30:57 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 08:30:58 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 08:30:58 INFO  LoginTest:19 - Login Test Started
+2026-02-13 08:31:11 INFO  LoginTest:23 - Login Successful!
+2026-02-13 08:31:11 INFO  ContactUsTest:20 - Contact us Test Started
+2026-02-13 08:31:15 INFO  ContactUsTest:22 - contact us button clicked successful!
+2026-02-13 08:31:16 INFO  ContactUsFormTest:20 - Contact us form Test Started
+2026-02-13 08:31:19 INFO  ContactUsFormTest:27 - contact details submit successful!
+2026-02-13 08:31:22 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:09:19 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:09:27 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:09:27 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:09:27 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:09:33 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:09:33 INFO  ContactUsTest:20 - Contact us Test Started
+2026-02-13 10:09:36 INFO  ContactUsTest:22 - contact us button clicked successful!
+2026-02-13 10:09:36 INFO  ContactUsFormTest:20 - Contact us form Test Started
+2026-02-13 10:09:40 INFO  ContactUsFormTest:27 - contact details submit successful!
+2026-02-13 10:09:40 INFO  ViewProductTest:20 - View Products Test Started
+2026-02-13 10:09:40 INFO  SearchProductTest:20 - Search Products Test Started
+2026-02-13 10:09:43 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:10:37 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:10:47 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:10:47 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:10:47 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:10:51 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:10:51 INFO  ContactUsTest:20 - Contact us Test Started
+2026-02-13 10:10:58 INFO  ContactUsTest:22 - contact us button clicked successful!
+2026-02-13 10:10:58 INFO  ContactUsFormTest:20 - Contact us form Test Started
+2026-02-13 10:11:02 INFO  ContactUsFormTest:27 - contact details submit successful!
+2026-02-13 10:11:02 INFO  ViewProductTest:20 - View Products Test Started
+2026-02-13 10:11:03 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:11:03 INFO  SearchProductTest:20 - Search Products Test Started
+2026-02-13 10:11:05 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:12:57 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:13:06 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:13:07 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:13:07 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:13:10 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:13:10 INFO  ContactUsTest:20 - Contact us Test Started
+2026-02-13 10:13:19 INFO  ContactUsTest:22 - contact us button clicked successful!
+2026-02-13 10:13:19 INFO  ContactUsFormTest:20 - Contact us form Test Started
+2026-02-13 10:13:22 INFO  ContactUsFormTest:27 - contact details submit successful!
+2026-02-13 10:13:22 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:13:23 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:13:23 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:13:25 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:14:10 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:14:16 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:14:18 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:14:18 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:14:26 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:14:26 INFO  ContactUsTest:20 - Contact us Test Started
+2026-02-13 10:14:29 INFO  ContactUsTest:22 - contact us button clicked successful!
+2026-02-13 10:14:29 INFO  ContactUsFormTest:20 - Contact us form Test Started
+2026-02-13 10:14:32 INFO  ContactUsFormTest:27 - contact details submit successful!
+2026-02-13 10:14:32 INFO  ViewProductTest:20 - View Products Test Started
+2026-02-13 10:14:33 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:14:36 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:14:51 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:14:59 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:15:00 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:15:00 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:15:04 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:15:04 INFO  ContactUsTest:20 - Contact us Test Started
+2026-02-13 10:15:11 INFO  ContactUsTest:22 - contact us button clicked successful!
+2026-02-13 10:15:11 INFO  ContactUsFormTest:20 - Contact us form Test Started
+2026-02-13 10:15:14 INFO  ContactUsFormTest:27 - contact details submit successful!
+2026-02-13 10:15:14 INFO  ViewProductTest:20 - View Products Test Started
+2026-02-13 10:15:23 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:15:26 INFO  SearchProductTest:22 - search product successful!
+2026-02-13 10:15:28 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:20:11 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:20:35 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:20:35 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:20:35 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:20:44 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:20:45 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-13 10:20:48 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-13 10:20:48 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-13 10:20:50 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-13 10:20:50 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:20:55 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:20:55 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:20:58 INFO  SearchProductTest:22 - search product successful!
+2026-02-13 10:20:59 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:36:34 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:36:42 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:36:43 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:36:43 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:36:46 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:36:46 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-13 10:36:54 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-13 10:36:54 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-13 10:36:56 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-13 10:36:56 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:37:01 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:37:01 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:37:04 INFO  SearchProductTest:22 - search product successful!
+2026-02-13 10:37:04 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-13 10:37:08 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-13 10:37:09 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-13 10:37:13 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:38:16 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:38:24 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:38:25 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:38:25 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:38:29 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:38:29 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-13 10:38:35 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-13 10:38:36 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-13 10:38:45 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-13 10:38:45 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:38:45 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:38:45 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:38:46 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-13 10:38:47 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-13 10:38:47 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-13 10:38:49 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:39:05 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:39:15 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:39:15 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:39:15 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:39:21 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:39:22 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-13 10:39:24 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-13 10:39:24 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-13 10:39:27 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-13 10:39:27 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:39:27 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:39:27 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:39:28 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-13 10:39:28 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-13 10:39:29 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-13 10:39:30 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:40:21 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:40:32 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:40:34 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:40:34 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:40:42 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:40:42 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-13 10:40:48 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-13 10:40:48 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-13 10:40:51 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-13 10:40:52 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:40:52 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:40:52 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:40:53 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-13 10:40:54 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-13 10:40:55 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-13 10:41:01 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:41:39 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:41:49 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:41:51 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:41:51 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:42:05 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:42:05 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-13 10:42:09 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-13 10:42:09 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-13 10:42:12 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-13 10:42:12 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:42:18 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:42:18 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:42:22 INFO  SearchProductTest:22 - search product successful!
+2026-02-13 10:42:22 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-13 10:42:25 INFO  ViewProductDetailTest:22 - view product details successful!
+2026-02-13 10:42:25 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-13 10:42:26 INFO  AddToCartProductTest:22 - add to cart product successful!
+2026-02-13 10:42:26 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-13 10:42:28 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:46:34 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:46:45 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:46:45 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:46:45 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:46:53 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:46:53 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-13 10:46:55 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-13 10:46:56 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-13 10:46:59 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-13 10:46:59 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:46:59 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:46:59 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:47:00 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-13 10:47:01 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-13 10:47:02 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-13 10:47:07 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-13 10:50:36 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-13 10:51:03 INFO  HomePageTest:19 - Logo Test Started
+2026-02-13 10:51:04 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-13 10:51:04 INFO  LoginTest:19 - Login Test Started
+2026-02-13 10:51:14 INFO  LoginTest:23 - Login Successful!
+2026-02-13 10:51:14 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-13 10:51:16 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-13 10:51:16 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-13 10:51:20 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-13 10:51:20 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-13 10:51:20 INFO  ViewProductTest:22 - view products successful!
+2026-02-13 10:51:21 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-13 10:51:21 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-13 10:51:22 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-13 10:51:22 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-13 10:51:25 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 11:54:23 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 11:55:54 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 11:55:54 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 11:55:54 INFO  LoginTest:19 - Login Test Started
+2026-02-14 11:56:48 INFO  LoginTest:23 - Login Successful!
+2026-02-14 11:56:48 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 11:56:55 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 11:56:55 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 11:57:00 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 11:57:00 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 11:57:01 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 11:57:01 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 11:57:05 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 11:57:06 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 11:57:06 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 11:57:07 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 11:57:07 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 11:57:08 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 11:57:10 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 11:57:12 INFO  ViewVideoTutorialTest:14 - View Video Tutorial Test Started
+2026-02-14 11:57:14 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 11:57:16 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 11:57:19 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:21:49 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:22:07 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:22:07 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:22:07 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:22:21 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:22:21 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:22:25 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:22:25 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:22:27 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:22:27 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:22:28 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:22:28 INFO  RemoveAddTest:21 - Dismiss Button Test Started
+2026-02-14 12:22:28 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:22:29 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:22:29 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:22:30 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:22:31 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:22:32 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:22:32 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:22:34 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:22:36 INFO  ViewVideoTutorialTest:14 - View Video Tutorial Test Started
+2026-02-14 12:22:37 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:22:38 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:22:41 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:23:44 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:23:59 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:23:59 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:23:59 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:24:19 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:24:19 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:24:22 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:24:22 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:24:24 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:24:24 INFO  RemoveAddTest:21 - Dismiss Button Test Started
+2026-02-14 12:24:25 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:24:25 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:24:25 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:24:25 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:24:26 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:24:26 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:24:27 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:24:28 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:24:28 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:24:29 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:24:31 INFO  ViewVideoTutorialTest:14 - View Video Tutorial Test Started
+2026-02-14 12:24:33 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:24:35 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:24:38 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:27:51 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:28:13 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:28:13 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:28:13 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:28:33 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:28:33 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:28:40 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:28:40 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:28:43 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:28:43 INFO  RemoveAddTest:19 - Dismiss Button Test Started
+2026-02-14 12:28:43 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:28:43 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:28:44 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:28:44 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:28:47 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:28:48 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:28:48 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:28:49 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:28:50 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:28:52 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:28:54 INFO  ViewVideoTutorialTest:14 - View Video Tutorial Test Started
+2026-02-14 12:28:56 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:28:58 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:29:07 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:29:39 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:29:53 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:29:58 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:29:58 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:30:25 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:30:25 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:30:28 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:30:28 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:30:31 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:30:31 INFO  RemoveAddTest:19 - Dismiss Button Test Started
+2026-02-14 12:30:31 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:30:31 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:30:32 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:30:32 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:30:32 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:30:33 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:30:33 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:30:34 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:30:34 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:30:36 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:30:38 INFO  ViewVideoTutorialTest:14 - View Video Tutorial Test Started
+2026-02-14 12:30:41 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:30:43 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:30:45 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:37:23 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:37:35 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:37:35 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:37:35 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:37:53 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:37:54 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:38:12 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:38:12 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:38:23 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:38:24 INFO  RemoveAddTest:19 - Dismiss Button Test Started
+2026-02-14 12:38:24 INFO  RemoveAddTest:22 - dismiss button close successful!
+2026-02-14 12:38:24 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:38:25 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:38:25 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:38:26 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:38:27 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:38:27 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:38:28 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:38:28 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:38:29 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:38:30 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:38:33 INFO  ViewVideoTutorialTest:14 - View Video Tutorial Test Started
+2026-02-14 12:38:35 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:38:37 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:38:44 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:42:16 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:42:38 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:42:38 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:42:38 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:42:51 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:42:52 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:42:59 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:42:59 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:43:05 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:43:05 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:43:17 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:43:17 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:43:23 INFO  SearchProductTest:22 - search product successful!
+2026-02-14 12:43:23 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:43:32 INFO  ViewProductDetailTest:22 - view product details successful!
+2026-02-14 12:43:32 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:43:33 INFO  AddToCartProductTest:22 - add to cart product successful!
+2026-02-14 12:43:34 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:43:36 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:43:36 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:43:37 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:43:38 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:43:39 INFO  ViewVideoTutorialTest:14 - View Video Tutorial Test Started
+2026-02-14 12:43:42 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:43:43 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:43:48 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:45:53 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:46:16 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:46:16 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:46:16 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:46:20 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:46:20 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:46:39 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:46:39 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:46:41 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:46:42 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:46:55 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:46:55 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:47:04 INFO  SearchProductTest:22 - search product successful!
+2026-02-14 12:47:04 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:47:06 INFO  ViewProductDetailTest:22 - view product details successful!
+2026-02-14 12:47:06 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:47:07 INFO  AddToCartProductTest:22 - add to cart product successful!
+2026-02-14 12:47:07 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:47:11 INFO  ViewCartProductTest:22 - search product successful!
+2026-02-14 12:47:11 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:47:12 INFO  DeleteCartItemTest:22 - delete cart item uccessful!
+2026-02-14 12:47:12 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:47:15 INFO  ProceedToCheckoutTest:20 - proceed to checkout uccessful!
+2026-02-14 12:47:15 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:47:18 INFO  ViewTestCasesTest:21 - view test cases successful!
+2026-02-14 12:47:18 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:47:20 INFO  ViewApiTestCasesTest:21 - view api test cases uccessful!
+2026-02-14 12:47:20 INFO  ViewVideoTutorialTest:14 - View Video Tutorial Test Started
+2026-02-14 12:47:31 INFO  ViewVideoTutorialTest:16 - view video tutorials successful!
+2026-02-14 12:47:32 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:47:34 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:47:39 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:51:47 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:52:00 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:52:00 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:52:00 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:52:19 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:52:19 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:52:22 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:52:22 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:52:24 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:52:24 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:52:40 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:52:40 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:52:45 INFO  SearchProductTest:22 - search product successful!
+2026-02-14 12:52:45 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:52:49 INFO  ViewProductDetailTest:22 - view product details successful!
+2026-02-14 12:52:49 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:52:49 INFO  AddToCartProductTest:22 - add to cart product successful!
+2026-02-14 12:52:49 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:52:50 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:52:50 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:52:50 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:52:52 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:52:53 INFO  ViewVideoTutorialTest:15 - View Video Tutorial Test Started
+2026-02-14 12:52:55 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:52:57 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:53:00 INFO  HomePageTest:20 - ===== Test Execution Finished =====
+2026-02-14 12:54:40 INFO  HomePageTest:14 - ===== Test Execution Started =====
+2026-02-14 12:55:08 INFO  HomePageTest:19 - Logo Test Started
+2026-02-14 12:55:08 INFO  HomePageTest:21 - Logo displayed successful!
+2026-02-14 12:55:08 INFO  LoginTest:19 - Login Test Started
+2026-02-14 12:55:44 INFO  LoginTest:23 - Login Successful!
+2026-02-14 12:55:44 INFO  ContactUsTest:18 - Contact us Test Started
+2026-02-14 12:55:48 INFO  ContactUsTest:20 - contact us button clicked successful!
+2026-02-14 12:55:48 INFO  ContactUsFormTest:19 - Contact us form Test Started
+2026-02-14 12:55:49 INFO  ContactUsFormTest:26 - contact details submit successful!
+2026-02-14 12:55:49 INFO  ViewProductTest:19 - View Products Test Started
+2026-02-14 12:56:20 INFO  ViewProductTest:21 - view products successful!
+2026-02-14 12:56:20 INFO  SearchProductTest:19 - Search Products Test Started
+2026-02-14 12:56:34 INFO  SearchProductTest:22 - search product successful!
+2026-02-14 12:56:34 INFO  ViewProductDetailTest:19 - View Products Details Test Started
+2026-02-14 12:56:39 INFO  ViewProductDetailTest:22 - view product details successful!
+2026-02-14 12:56:39 INFO  AddToCartProductTest:19 - Add To Cart Products Test Started
+2026-02-14 12:56:39 INFO  AddToCartProductTest:22 - add to cart product successful!
+2026-02-14 12:56:39 INFO  ViewCartProductTest:19 - Search Products Test Started
+2026-02-14 12:56:40 INFO  DeleteCartItemTest:20 - Delete Cart Item Test Started
+2026-02-14 12:56:40 INFO  ProceedToCheckoutTest:18 - Proceed To Chechout Test Started
+2026-02-14 12:56:40 INFO  ViewTestCasesTest:19 - View Test Cases Test Started
+2026-02-14 12:56:42 INFO  ViewApiTestCasesTest:19 - View Api Test Cases Test Started
+2026-02-14 12:56:43 INFO  ViewVideoTutorialTest:15 - View Video Tutorial Test Started
+2026-02-14 12:56:44 INFO  DeleteAccountTest:19 - Delete Account Test Started
+2026-02-14 12:56:46 INFO  LogoutTest:19 - Logout Test Started
+2026-02-14 12:56:49 INFO  HomePageTest:20 - ===== Test Execution Finished =====
